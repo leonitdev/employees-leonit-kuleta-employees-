@@ -1,0 +1,4 @@
+{
+    "key": "cmd+r",
+    "command": "workbench.action.tasks.test"
+}
